@@ -1,0 +1,75 @@
+/* Write your CSS here */
+.money-details-con {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 20vh;
+}
+.available-money-con {
+  height: 18vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #ecfccb;
+}
+.available-money-icon {
+  height: 4vh;
+  width: 4vw;
+  border-radius: 12px;
+}
+.available-money-details-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 8px;
+  color: black;
+  font-family: 'Roboto';
+}
+.balance {
+  font-size: 10px;
+  font-family: 'Roboto';
+}
+
+.income-money-con {
+  height: 18vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #cffafe;
+}
+.income-money-icon {
+  height: 4vh;
+  width: 4vw;
+  border-radius: 12px;
+}
+.income-money-details-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.expenses-money-con {
+  height: 18vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #cbd5e1;
+}
+.expenses-money-icon {
+  height: 4vh;
+  width: 4vw;
+  border-radius: 12px;
+}
+.expenses-money-details-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

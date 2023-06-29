@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.main-con {
+  height: 100vh;
+  flex-direction: column;
+}
+.name-con {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  height: 24vh;
+  width: 100%;
+  border-radius: 12px;
+}
